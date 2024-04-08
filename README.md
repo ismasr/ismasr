@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning, studying and working to be a great person with no worries.
 
 <!--
 **ismasr/ismasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
